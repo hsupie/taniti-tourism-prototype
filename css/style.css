@@ -111,3 +111,26 @@ margin-top:30px;
 footer p{
 margin:5px;
 }
+.hero img{
+    max-width:800px !important;
+    width:800px !important;
+    height:400px !important;
+    object-fit:cover !important;
+    display:block;
+    margin:auto;
+}
+
+.card img{
+    width:250px !important;
+    height:175px !important;
+    object-fit:cover !important;
+}
+
+.section img{
+    max-width:600px !important;
+    width:600px !important;
+    height:350px !important;
+    object-fit:cover !important;
+    display:block;
+    margin:auto;
+}
